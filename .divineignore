@@ -1,0 +1,13 @@
+# Repository metadata and source files
+.git/**
+.gitattributes
+.gitmodules
+.gitignore
+.divineignore
+NuGet.Config
+*.md
+
+# Package only the resource directories used by Divine
+dota2-minify/**
+!dota2-minify/Minify/mods/**
+!dota2-minify/Minify/bin/blank-files/**
