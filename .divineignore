@@ -9,5 +9,6 @@ NuGet.Config
 
 # Package only the resource directories used by Divine
 dota2-minify/**
-!dota2-minify/Minify/mods/**
 !dota2-minify/Minify/bin/blank-files/**
+!dota2-minify/Minify/mods/**
+dota2-minify/Minify/mods/#base/**
