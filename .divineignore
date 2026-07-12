@@ -10,5 +10,19 @@ NuGet.Config
 # Package only the resource directories used by Divine
 dota2-minify/**
 !dota2-minify/Minify/bin/blank-files/**
-!dota2-minify/Minify/mods/**
-dota2-minify/Minify/mods/#base/**
+!dota2-minify/Minify/mods/Dark Terrain/**
+!dota2-minify/Minify/mods/Minify Base Attacks/**
+!dota2-minify/Minify/mods/Minify Spells & Items/**
+!dota2-minify/Minify/mods/Misc Optimization/**
+!dota2-minify/Minify/mods/Mute Ambient Sounds/**
+!dota2-minify/Minify/mods/Mute Default Announcer/**
+!dota2-minify/Minify/mods/Mute Taunt Sounds/**
+!dota2-minify/Minify/mods/Mute Voice Line Sounds/**
+!dota2-minify/Minify/mods/Remove Foilage/**
+!dota2-minify/Minify/mods/Remove Pings/**
+!dota2-minify/Minify/mods/Remove River/**
+!dota2-minify/Minify/mods/Remove Sprays/**
+!dota2-minify/Minify/mods/Remove Weather Effects/**
+!dota2-minify/Minify/mods/Show NetWorth/**
+dota2-minify/**/*.py
+
