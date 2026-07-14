@@ -23,6 +23,5 @@ dota2-minify/**
 !dota2-minify/Minify/mods/Remove River/**
 !dota2-minify/Minify/mods/Remove Sprays/**
 !dota2-minify/Minify/mods/Remove Weather Effects/**
-!dota2-minify/Minify/mods/Show NetWorth/**
 dota2-minify/**/*.py
 
